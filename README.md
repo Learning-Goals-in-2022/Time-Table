@@ -12,11 +12,11 @@
    -JS w3School.com
    - 01 - 04 PM
 
-# 🎯 ✔️ Task 04:
+### 🎯 ✔️ Task 04:
    - C++ & CP + DSA Saad Hassan
    - 05 - 08 PM
 
-# 🎯 ✔️ Task 05:
+### 🎯 ✔️ Task 05:
    - Striver SDE Core Sheet
    - 08 - 09 PM
 
