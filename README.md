@@ -20,10 +20,10 @@
    - Striver SDE Core Sheet
    - 08 - 09 PM
 
-# 🎯 ✔️ Task 06:
+### 🎯 ✔️ Task 06:
   - Ongoing DSA
   - 09-11 PM
 
-# 🎯 ✔️ Task 07:
+### 🎯 ✔️ Task 07:
   - Sleeping
   - 11 Pm To 5AM
