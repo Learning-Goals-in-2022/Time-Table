@@ -1,10 +1,10 @@
 # Time-Table      
 
-# 🎯 ✔️ Task 01-
+### 🎯 ✔️ Task 01-
    - JS Harry
    - 06 - 09 am
 
-# 🎯 ✔️ Task 2
+### 🎯 ✔️ Task 2
    - Web Dev By Saad 
    - 09 - 12 PM
 
